@@ -81,9 +81,16 @@ h4{
 	margin: 20px 0;
 }
 
+#cta{
+	background-color: var(--fondo-cta);
+	text-align: center;
+	align-content: center;
+}
 
-
-
+footer{
+	background-color: var(--fondo-footer);
+	padding-left: 100px;
+}
 
 
 
